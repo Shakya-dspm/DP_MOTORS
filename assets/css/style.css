@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-top-section {
+    display: flex;
+    padding: 7px;
+    color: rgb(221, 221, 239);
+    font-family: "Google Sans", sans-serif;
+    font-size: 13px;
+    background-color: #022950;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    width: 15px;
+    padding-right: 10px;
+}
+
+.email-icon {
+    display: flex;
+    align-items: center;
+    padding-left: 35px;
+    padding-right: 25px;
+}
+
+.phone-icon {
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 340px;
+}
+
+.about-us-icon {
+    display: flex;
+    align-items: center;
+    padding-left: 390px;
+    padding-right: 25px;
+}
+
+.contact-us-icon {
+    display: flex;
+    align-items: center;
+    padding-left: 33px;
+}
+
+.language-icon {
+    display: flex;
+    align-items: center;
+    padding-left: 61px;
+    padding-right: 25px;
+}
+
+.header-bottom-section {
+    display: flex;
+    align-items: center;
+    font-family: "Google Sans", sans-serif;
+    color:rgb(37 141 205);
+    padding: 5px;
+}
+
+.main-image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 0x;
+
+}
+
+.img {
+    border-radius: 10px;
+}
+
+.description{
+    background-color: #E1E9EE;
+    font-family: "Google Sans", sans-serif;
+    margin: 20px 300px;
+    padding: 0 100px 20px 100px;
+    border-radius: 40px;
+    text-align: center;
+}
+
+h3 {
+    padding-top: 20px;
+}
+
+.para {
+    padding: 20px;
+    padding-top: 0px;
+}
