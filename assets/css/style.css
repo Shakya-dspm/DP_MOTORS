@@ -8,7 +8,7 @@
 .header-top-section {
     display: flex;
     padding: 7px;
-    color: rgb(221, 221, 239);
+    color: #ddddef;
     font-family: "Google Sans", sans-serif;
     font-size: 13px;
     background-color: #022950;
@@ -61,6 +61,7 @@
     font-family: "Google Sans", sans-serif;
     color:rgb(37 141 205);
     padding: 5px;
+    padding-right: 320px;
 }
 
 .main-image-container {
@@ -90,4 +91,29 @@ h3 {
 .para {
     padding: 20px;
     padding-top: 0px;
+}
+
+.nav-header {
+    display: flex;
+    position: absolute;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    
+}
+
+a {
+    color: #022950;
+    font-weight: 700;
+    margin-top: 10px;
+    padding-left: 60px;
+    text-decoration: none;
+    font-family: "Google Sans", sans-serif;
+    align-items: center;
+}
+
+.anc01 {
+    padding-left: 320px;
 }
