@@ -1,0 +1,11 @@
+[33mdc6d6ea[m[33m ([m[1;31morigin/feature/Products[m[33m)[m Initial Commit
+[33m7e2a250[m Add top section of header
+[33md73bd91[m Add bottom section of header
+[33mff8be02[m Add discription and CSS
+[33m206230f[m Add other file navigations
+[33m4de3d40[m Final the page
+[33mc95d7f8[m feat : Remove motorcycles page and update navigation links; adjust padding for better layout
+[33m581c42e[m fix: update navigation link for motorcycles page
+[33m0dcf204[m[33m ([m[1;31morigin/feature/Home[m[33m, [m[1;32mfeature/Home[m[33m)[m chore: remove VSCode settings file
+[33m2436aca[m Merge pull request #4 from Shakya-dspm/feature/Home
+[33mf6dd7bc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m feat: remove products page
